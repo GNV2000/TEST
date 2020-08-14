@@ -3,4 +3,5 @@
 new file to be tested
 
 
-this is second commit line.
+this is second commit line
+third line.
